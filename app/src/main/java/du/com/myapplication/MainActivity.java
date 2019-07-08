@@ -23,6 +23,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
+    private static final int hello_xin_chao = 1;
     private static final int PICK_IMAGE = 1;
     final Activity activity = this;
     @Override
